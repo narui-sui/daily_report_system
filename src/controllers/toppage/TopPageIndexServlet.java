@@ -1,4 +1,5 @@
 package controllers.toppage;
+//サーブレットからindexのjspを呼び出してるのはあとからこのサーブレットに機能を追加するため
 
 import java.io.IOException;
 
